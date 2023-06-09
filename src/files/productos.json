@@ -1,0 +1,50 @@
+[
+		{
+		"id": "1",
+		"title": "Papas Fritas",
+		"descripcion": "paquete de papas de 1000g",
+		"price": 3000,
+		"code": 345345,
+		"stock": 45
+	},
+	{
+		"id": "2",
+		"title": "Salsa de tomate",
+		"descripcion": "paquete de salsa de tomate de 100g",
+		"price": 13000,
+		"code": 1251256,
+		"stock": 45
+	},
+	{
+		"id": "3",
+		"title": "Salsa mayonesa",
+		"descripcion": "paquete de salsa de 1000g",
+		"price": 13000,
+		"code": 125125,
+		"stock": 45
+	},
+	{
+		"id": "4",
+		"title": "aguacate",
+		"descripcion": "paquete de 6 ahuacates",
+		"price": 15000,
+		"code": 12521,
+		"stock": 20
+	},
+	{
+		"id": "5",
+		"title": "tomates",
+		"descripcion": "paquete de tomates de 1000g",
+		"price": 8000,
+		"code": 1525,
+		"stock": 45
+	},
+	{
+		"id": "6",
+		"title": "mantequila",
+		"descripcion": "paquete de mantequilla ed 1000g",
+		"price": 1245,
+		"code": 6,
+		"stock": 45
+	}
+]
